@@ -1,5 +1,7 @@
 # directx-exporter
-Exporter from Blender to DirectX - adapted from [Ben Omari's version](http://xoomer.virgilio.it/glabro1/index.html)
+Exporter from Blender to DirectX - adapted from [Ben Omari's version](http://xoomer.virgilio.it/glabro1/index.html).
+
+I was doing my development using Blender 2.45, so I make no promises that it will still work with earlier versions.
 
 ## New features include: (updated 17th April 2009):
 
